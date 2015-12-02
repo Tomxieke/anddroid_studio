@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>c语言</item>
+        <item>java语言</item>
+        <item>android</item>
+        <item>html</item>
+        <item>xml</item>
+    </string-array>
+    <color name="mybule">#9F79EE</color>
+    <color name="myred">#CD2626</color>
+    <color name="weixin_login1">#00EE00</color>
+    <color name="weixin_login2">#00FF00</color>
+    <color name="weixin_loginpass">#00FF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="activity_name">新的activity</string>
+    <string name="app_name">电话拨号器</string>
+    <string name="baidu">www.baidu.com</string>
+    <string name="bb">注册</string>
+    <string name="button_text">按钮</string>
+    <string name="buttontoactivity">点击按钮事件出来新的activity</string>
+    <string name="demo_text_them">代码实现的Activity</string>
+    <string name="event_text1">内部类实现点击事件处理</string>
+    <string name="event_text2">实现接口处理点击事件处理</string>
+    <string name="exit">取消</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="info">登录系统</string>
+    <string name="name">用户名：</string>
+    <string name="name1">请输入用户名</string>
+    <string name="password">密     码：</string>
+    <string name="password1">请输入密码</string>
+    <string name="red">登录</string>
+    <string name="spinner_title">分类</string>
+    <string name="spinner_title2">请选择语言</string>
+    <string name="style">这是自定义的style样式,需要长一点才能看到效果哟。</string>
+    <string name="text1">电话号码</string>
+    <string name="text2">请输入电话号码</string>
+    <string name="text3">拨打号码</string>
+    <string name="textview_txt">让其显示滚动的文字，所以需要较长的内容。这么长应该够了。不够的话再来添加</string>
+    <string name="txt1">veiw1</string>
+    <string name="txt2">veiw2</string>
+    <string name="txt3">veiw3</string>
+    <string name="txt4">veiw4</string>
+    <string name="txt5">veiw5</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="adapter_homework_textstyle">
+       <item name="android:textSize">15sp</item> 
+	  </style>
+    <style name="textview_style1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/myred</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ems">5</item> 
+          
+    </style>
+</resources>

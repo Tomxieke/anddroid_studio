@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book>
+        <id>100</id>
+        <name>Android开发学习</name>
+        <price>108.50</price>
+    </book>
+    <book>
+        <id>101</id>
+        <name>java开发入门</name>
+        <price>58.00</price>
+    </book>
+    <book>
+        <id>102</id>
+        <name>xml解析</name>
+        <price>10.50</price>
+    </book>
+</books>

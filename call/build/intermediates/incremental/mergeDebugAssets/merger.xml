@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\UserData\scxh\Desktop\call\call\assets"><file name="books.xml" path="D:\UserData\scxh\Desktop\call\call\assets\books.xml"/><file name="json_xx" path="D:\UserData\scxh\Desktop\call\call\assets\json_xx"/></source></dataSet><dataSet config="debug"><source path="D:\UserData\scxh\Desktop\call\call\build-types\debug\assets"/></dataSet></merger>

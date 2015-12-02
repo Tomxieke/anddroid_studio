@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_buttom_btn_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_buttom_btn_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\learn_avtivitylaunchmade.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\learn_avtivitylaunchmade.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\event_study_button.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\event_study_button.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_msg_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_fragment_msg_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\service_binder_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\service_binder_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\lookfile_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\lookfile_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\httpservelet_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\httpservelet_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\learn_textchangelistener.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\learn_textchangelistener.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\my_notification_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\my_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\acttionbar_search_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\acttionbar_search_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_study_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\dialog_study_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_homework_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_homework_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\lookfile_list_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\lookfile_list_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\music_palyer_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\music_palyer_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sms_contentprovider_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\sms_contentprovider_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item1_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\tab_item1_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\webview_activity_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\webview_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\tab_item2_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\tab_item2_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_sempleadapter.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_sempleadapter.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sqltwo_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\sqltwo_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\learn_savestate_activity.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\learn_savestate_activity.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_simple_item_relativelayout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_simple_item_relativelayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\http_xlistview_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\http_xlistview_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\shap_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\shap_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_list_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\expandable_list_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\application_activity_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\application_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\down_refresh_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\down_refresh_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gridlayout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_gridlayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\showfrombutton.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\showfrombutton.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\httplistview_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\httplistview_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_activtiy_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_activtiy_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\study_activity_lifeone.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\study_activity_lifeone.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\popwindow_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\login_login_login.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\login_login_login.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_life.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_life.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\study_checkbox.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\study_checkbox.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_simple_item1_linearlayout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_simple_item1_linearlayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\write_data_to_file_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\write_data_to_file_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\expanlistview_child_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\expanlistview_child_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\asynctask_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\asynctask_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linearlayout_my.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_linearlayout_my.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_msg_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\intent_one.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\intent_one.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\send_databetweenactivity_two.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\send_databetweenactivity_two.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\learn_launchmade_singleinstance.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\learn_launchmade_singleinstance.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\service_activity_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\service_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\miaget_textview.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\miaget_textview.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sql_liseview_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\sql_liseview_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\mydialog_contentview_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\mydialog_contentview_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item4_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\viewpager_item4_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sqlone_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\sqlone_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item2_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\viewpager_item2_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item3_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\viewpager_item3_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\imageview_study.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\imageview_study.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\mp3_player_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\mp3_player_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item1_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\viewpager_item1_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\study_activity_lifetwo.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\study_activity_lifetwo.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_adapter_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\gridview_adapter_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\miaget_radiobutton_group.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\miaget_radiobutton_group.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\tab_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tablelayout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_tablelayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_arrayitem_listview.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_arrayitem_listview.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sql_listview_header.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\sql_listview_header.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_arrayitem_textview1.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_arrayitem_textview1.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\gridviewasynctask_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\gridviewasynctask_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment_two_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_fragment_two_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_life_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_life_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_fragment_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_test_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\popwindow_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xml_parmater_forminternet_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xml_parmater_forminternet_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_study.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\spinner_study.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\menu_optionmenu_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\menu_optionmenu_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\midget_button.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\midget_button.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\broadcast_receiver_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\broadcast_receiver_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\myfragment_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\myfragment_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\progress_bar_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\progress_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\my_popwindow_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\my_popwindow_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\launchmade_activity_singltop.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\launchmade_activity_singltop.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\study_togglebutton_switch.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\study_togglebutton_switch.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_asynctask_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\gridview_asynctask_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xlistview_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayout2.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_relativelayout2.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_relativelayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\gridview_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\handler_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\handler_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\notification_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\notification_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\expanlistview_parent_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\expanlistview_parent_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\start_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\start_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\api_textview_study.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\api_textview_study.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\myface_icon_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\myface_icon_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\actionbar_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\launchmado_singletask.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\launchmado_singletask.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linearlayout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_linearlayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_send_msg_to_activity.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_send_msg_to_activity.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\intent_two.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\intent_two.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\main_mydialog_exit.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\main_mydialog_exit.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\imageintext_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\imageintext_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\weixin_login_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\weixin_login_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\send_databetweenactivity_one.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\send_databetweenactivity_one.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\set_title_study_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\set_title_study_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_homework_layout_listview.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_homework_layout_listview.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\menu_content_menu_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\menu_content_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\toast_mytoastview_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\toast_mytoastview_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\autocompletetv_historydata_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\autocompletetv_historydata_layout.xml"
+    }
+]

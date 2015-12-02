@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_person.jpg",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\img_person.jpg"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\takeout_bg_rating_face_selected.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\takeout_bg_rating_face_selected.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\seekbar_frist_color.9.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\seekbar_frist_color.9.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_smile.jpg",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\img_smile.jpg"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\img_buetyful.jpg",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\img_buetyful.jpg"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\send_message_backgrund.9.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\send_message_backgrund.9.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\weixin_login.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\weixin_login.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\takeout_bg_food_count_new.9.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\takeout_bg_food_count_new.9.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\takeout_bg_rating_face_normal.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\takeout_bg_rating_face_normal.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\play_list_mode_sequent_normal.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xxhdpi\\play_list_mode_sequent_normal.png"
+    }
+]

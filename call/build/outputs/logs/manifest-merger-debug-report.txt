@@ -1,0 +1,601 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:2:1-312:12
+	package
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:3:5-31
+	android:versionName
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:5:5-30
+		INJECTED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml
+		INJECTED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:4:5-28
+		INJECTED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml
+		INJECTED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:8:9-35
+instrumentation#android.test.InstrumentationTestRunner
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:11:5-13:52
+	android:targetPackage
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:13:9-49
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:12:9-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.READ_SMS
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:22:5-70
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:22:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.INTERNET
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:24:22-64
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:26:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:27:30-85
+application
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:29:5-310:19
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:32:9-45
+	android:theme
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:34:9-40
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:30:9-49
+uses-library#android.test.runner
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:37:9-60
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:37:23-57
+activity#com.example.call.StartActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:40:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:45:27-74
+receiver#broadcast_receiver.MeBroadCastReceiver
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:49:9-55:20
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:49:19-72
+intent-filter#android.provider.Telephony.SMS_RECEIVED+broadcast_receiver_one+broadcast_receiver_two
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:50:13-54:29
+action#broadcast_receiver_one
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:51:17-65
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:51:25-62
+action#broadcast_receiver_two
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:52:17-65
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:52:25-62
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:53:17-82
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:53:25-79
+activity#broadcast_receiver.ReceiverActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:57:9-72
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:57:19-69
+provider#data.contentprovider.MyContentProvider
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:59:9-61:76
+	android:authorities
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:61:13-73
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:60:13-66
+provider#data.contentprovider.TeacherContentProvider
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:63:9-65:74
+	android:authorities
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:65:13-71
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:64:13-71
+provider#data.contentprovider.moretable.TwoTableContentProvider
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:66:9-68:92
+	android:authorities
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:68:13-89
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:67:13-82
+service#notification.PlayerService
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:70:9-62
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:70:18-59
+service#service_by_binder.MyBinderService
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:71:9-69
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:71:18-66
+service#service.MySercive
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:72:9-53
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:72:18-50
+activity#service_by_binder.ServiceActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:74:9-70
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:74:19-67
+activity#service.TestServiceActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:75:9-77:41
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:77:13-38
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:76:13-55
+activity#music.mediaplayer.Mp3PlayerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:78:9-80:38
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:80:13-35
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:79:13-63
+activity#music.mediaplayer.MusicActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:88:9-94:20
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:90:13-33
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:89:13-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:91:13-93:65
+	android:value
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:93:17-62
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:92:17-63
+activity#data.contentprovider.sms.SmsTestActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:95:9-97:36
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:97:13-33
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:96:13-68
+activity#com.example.call.MainActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:98:9-100:53
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:100:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:99:13-41
+activity#scan_files.LookFilesActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:101:9-65
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:101:19-62
+activity#call_back.TestCallBackActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:102:9-104:38
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:104:13-35
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:103:13-58
+activity#com.example.call.LayoutMainActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:105:9-107:53
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:107:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:106:13-47
+activity#tools.ShapeActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:108:9-110:41
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:110:13-38
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:109:13-47
+activity#study_handler.HandlerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:111:9-66
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:111:19-63
+activity#data.files.WritePrictureToStoreActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:112:9-76
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:112:19-73
+activity#layout.CallActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:113:9-115:53
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:115:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:114:13-47
+activity#tabhost.PopWindowsActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:116:9-118:44
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:118:13-41
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:117:13-54
+activity#layout.RelativelayoutActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:119:9-121:53
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:121:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:120:13-57
+activity#layout.TableLayoutActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:122:9-124:53
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:124:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:123:13-54
+activity#wiaget.TextViewActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:125:9-127:53
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:127:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:126:13-51
+activity#com.example.call.LayoutsDemoActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:128:9-130:54
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:130:13-51
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:129:13-48
+activity#wiaget.ButtonActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:131:9-133:54
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:133:13-51
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:132:13-49
+activity#ui_adapter_wiaget.StudySpinnerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:134:9-137:51
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:136:13-38
+	android:theme
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:137:13-48
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:135:13-66
+activity#wiaget.ShowFromButtonActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:140:9-142:52
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:141:13-57
+activity#app.login.ui.WeiXinLogin
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:143:9-146:37
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:146:13-34
+	android:icon
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:145:13-50
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:144:13-52
+activity#event.ButtonOnClickEvent
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:147:9-149:45
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:149:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:148:13-52
+activity#wiaget.ImageViewActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:150:9-152:43
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:152:13-40
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:151:13-52
+activity#wiaget.TextViewApiStudyActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:153:9-155:49
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:155:13-46
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:154:13-59
+activity#wiaget.SpinnerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:156:9-158:41
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:158:13-38
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:157:13-50
+activity#wiaget.RadioButtonActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:159:9-161:45
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:161:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:160:13-54
+activity#wiaget.CheckBoxStudy
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:162:9-164:42
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:164:13-39
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:163:13-48
+activity#wiaget.ToggleButtonSwitchActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:165:9-167:54
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:167:13-51
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:166:13-61
+activity#wiaget.LogCat
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:168:9-170:42
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:170:13-39
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:169:13-41
+activity#activity.StudyActivityLifeOne
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:171:9-173:47
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:173:13-44
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:172:13-57
+activity#activity.StudyActivityLifeTwo
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:174:9-176:47
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:176:13-44
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:175:13-57
+activity#event.LearnSaveStateActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:177:9-179:45
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:179:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:178:13-56
+activity#event.LearnActivityLaunchMade
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:180:9-182:49
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:182:13-46
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:181:13-57
+activity#event.LaunchMadeSingTop
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:183:9-186:46
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:185:13-46
+	android:launchMode
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:186:13-43
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:184:13-51
+activity#event.SingleTaskActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:189:9-191:50
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:191:13-47
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:190:13-52
+activity#com.example.call.WiagetMainActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:192:9-194:36
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:194:13-33
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:193:13-47
+activity#app.login.ui.LoginLogin
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:195:9-197:42
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:197:13-39
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:196:13-51
+activity#event.LaunchMadeSingleInstance
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:198:9-201:51
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:200:13-47
+	android:launchMode
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:201:13-48
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:199:13-58
+activity#senddatebetweenactivity.OneActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:204:9-207:47
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:206:13-47
+	android:launchMode
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:207:13-44
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:205:13-63
+activity#senddatebetweenactivity.TwoActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:208:9-210:50
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:210:13-47
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:209:13-63
+activity#intent.TestIntentOne
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:211:9-214:47
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:213:13-42
+	android:launchMode
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:214:13-44
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:212:13-48
+activity#intent.TestIntentTwo
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:215:9-224:20
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:217:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:216:13-48
+intent-filter#IntentActivityOne+android.intent.category.DEFAULT
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:218:13-222:29
+action#IntentActivityOne
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:219:17-60
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:219:25-57
+category#android.intent.category.DEFAULT
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:221:17-76
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:221:27-73
+activity#adapter.ListArrayAdapter
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:225:9-227:46
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:227:13-43
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:226:13-52
+activity#adapter.AdapterSimpleAdapter
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:228:9-230:47
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:230:13-44
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:229:13-56
+activity#adapter.MyAdapterActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:231:9-233:44
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:233:13-41
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:232:13-53
+activity#adapter.MyMessageAdapterActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:234:9-236:46
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:236:13-43
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:235:13-60
+activity#studytest.AdapterHomeworkActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:237:9-240:34
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:240:13-31
+	android:icon
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:239:13-59
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:238:13-61
+activity#ui_adapter_wiaget.SpinnerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:241:9-243:41
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:243:13-38
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:242:13-61
+activity#ui_adapter_wiaget.HistoryAutoCompleteTextViewActiviity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:244:9-246:59
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:246:13-56
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:245:13-82
+activity#ui_adapter_wiaget.GridViewActivty
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:247:9-249:42
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:249:13-39
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:248:13-61
+activity#application.ApplicationActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:250:9-252:45
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:252:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:251:13-59
+activity#studytest.ImageInTextActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:253:9-255:47
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:255:13-44
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:254:13-57
+activity#ui_adapter_wiaget.SetTitleActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:256:9-258:39
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:258:13-36
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:257:13-62
+activity#ui_adapter_wiaget.ViewPagerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:259:9-261:43
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:261:13-40
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:260:13-63
+activity#progess_bar.ProgressBarActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:262:9-264:45
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:264:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:263:13-59
+activity#study_dialog.TestDialogActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:265:9-267:43
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:267:13-40
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:266:13-59
+activity#tabhost.TabHostActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:268:9-270:41
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:270:13-38
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:269:13-51
+activity#study_menu.OptionMenuActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:271:9-273:38
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:273:13-35
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:272:13-57
+activity#study_menu.ContentMenuActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:274:9-280:20
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:276:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:275:13-58
+activity#ui_adapter_wiaget.ForeverViewPagerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:283:9-285:45
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:285:13-42
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:284:13-70
+activity#notification.NotificationActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:286:9-70
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:286:19-67
+activity#study_menu.ActionBarSearchActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:287:9-289:34
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:289:13-31
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:288:13-62
+activity#study_menu.ActionBarActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:290:9-297:20
+	android:label
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:292:13-31
+	android:logo
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:293:13-47
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:291:13-56
+activity#asynctask.AsynctaskActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:299:9-64
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:299:19-61
+activity#asynctask.GridViewAsynctaskActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:300:9-72
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:300:19-69
+activity#webview.WebViewActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:301:9-60
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:301:19-57
+activity#webview.HttpServeletActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:302:9-65
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:302:19-62
+activity#dataparmte.xml.HttpXmlParmaterActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:303:9-75
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:303:19-72
+activity#adapter_view_refresh.LastRefreshActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:304:9-77
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:304:19-74
+activity#adapter_view_refresh.XlistViewRefreshActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:305:9-82
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:305:19-79
+activity#fragment_demo.fragment.FragmentDomeActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:306:9-80
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:306:19-77
+activity#fragment_demo.Test_fragment.TestFragmentActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:307:9-85
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:307:19-82
+activity#fragment_demo.test_fragment_life.FragmentLifeActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:308:9-90
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:308:19-87
+activity#fragment_demo.sendMsg.FragmentMsgActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:309:9-87
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:309:19-75
