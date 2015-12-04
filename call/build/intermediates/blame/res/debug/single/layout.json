@@ -8,12 +8,12 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\learn_avtivitylaunchmade.xml"
     },
     {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\event_study_button.xml",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\event_study_button.xml"
-    },
-    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_msg_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_fragment_msg_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\event_study_button.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\event_study_button.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\service_binder_layout.xml",
@@ -64,6 +64,14 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\music_palyer_layout.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_main_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_fragment_main_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_list.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_my_list.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sms_contentprovider_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\sms_contentprovider_layout.xml"
     },
@@ -108,6 +116,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\expandable_list_layout.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_movies_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_movies_layout.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\application_activity_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\application_activity_layout.xml"
     },
@@ -136,8 +148,16 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\study_activity_lifeone.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sub_fragment.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_sub_fragment.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\popwindow_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_traveal.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_traveal.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\login_login_login.xml",
@@ -186,6 +206,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\send_databetweenactivity_two.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\send_databetweenactivity_two.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_state.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_fragment_state.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\learn_launchmade_singleinstance.xml",
@@ -252,6 +276,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\miaget_radiobutton_group.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab_one_v4.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_tab_one_v4.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\tab_main_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\tab_main_layout.xml"
     },
@@ -270,6 +298,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_arrayitem_textview1.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_arrayitem_textview1.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_news.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_news.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\gridviewasynctask_item_layout.xml",
@@ -294,6 +326,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xml_parmater_forminternet_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xml_parmater_forminternet_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fragment_tab_host.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_fragment_tab_host.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_study.xml",
@@ -336,8 +372,16 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\gridview_asynctask_layout.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_fragment.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_tab_fragment.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xlistview_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab_buttom.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_tab_buttom.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayout2.xml",
@@ -346,6 +390,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_relativelayout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_relativelayout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_state.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_state.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item_layout.xml",
@@ -404,12 +452,20 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\imageintext_layout.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_fragment_stack.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_fragment_stack.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\weixin_login_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\weixin_login_layout.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\send_databetweenactivity_one.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\send_databetweenactivity_one.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_work_fragment.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_work_fragment.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\set_title_study_layout.xml",
@@ -426,6 +482,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\login_dialog_fragment_layout.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\login_dialog_fragment_layout.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item_layout.xml",

@@ -41,7 +41,14 @@ import event.LearnActivityLaunchMade;
 import event.LearnSaveStateActivity;
 import fragment_demo.Test_fragment.TestFragmentActivity;
 import fragment_demo.fragment.FragmentDomeActivity;
+import fragment_demo.fragment.FragmentMainActivity;
+import fragment_demo.fragment.FragmentStackActivity;
+import fragment_demo.fragment.WorkFragmentActivity;
 import fragment_demo.sendMsg.FragmentMsgActivity;
+import fragment_demo.subfragment.SubFragmentActivity;
+import fragment_demo.tabfragment.FragmentStateActivity;
+import fragment_demo.tabfragment.FragmentTabHostActivity;
+import fragment_demo.tabfragment.TabFragmentActivity;
 import fragment_demo.test_fragment_life.FragmentLifeActivity;
 import intent.TestIntentOne;
 import music.mediaplayer.Mp3PlayerActivity;
@@ -157,6 +164,13 @@ public class MainActivity extends ListActivity {
 		addItem(data, "TestFragmentActivity", TestFragmentActivity.class);
 		addItem(data, "FragmentLifeActivity", FragmentLifeActivity.class);
 		addItem(data, "Fragment之参数传递", FragmentMsgActivity.class);
+		addItem(data, "Fragment之参数传递二", FragmentMainActivity.class);
+		addItem(data, "WorkFragmentActivity", WorkFragmentActivity.class);
+		addItem(data, "FragmentStackActivity", FragmentStackActivity.class);
+		addItem(data, "SubFragmentActivity", SubFragmentActivity.class);
+		addItem(data, "TabFragmentActivity", TabFragmentActivity.class);
+		addItem(data, "FragmentStateActivity", FragmentStateActivity.class);
+		addItem(data, "FragmentTabHostActivity", FragmentTabHostActivity.class);
 		return data;
 	}
 

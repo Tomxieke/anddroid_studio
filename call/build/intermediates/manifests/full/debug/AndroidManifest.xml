@@ -307,6 +307,13 @@
         <activity android:name="fragment_demo.Test_fragment.TestFragmentActivity" />
         <activity android:name="fragment_demo.test_fragment_life.FragmentLifeActivity" />
         <activity android:name="fragment_demo.sendMsg.FragmentMsgActivity" />
+        <activity android:name="fragment_demo.fragment.FragmentMainActivity" />
+        <activity android:name="fragment_demo.fragment.WorkFragmentActivity" />
+        <activity android:name="fragment_demo.fragment.FragmentStackActivity" />
+        <activity android:name="fragment_demo.subfragment.SubFragmentActivity" />
+        <activity android:name="fragment_demo.tabfragment.TabFragmentActivity" />
+        <activity android:name="fragment_demo.tabfragment.FragmentTabHostActivity" />
+        <activity android:name="fragment_demo.tabfragment.FragmentStateActivity" />
     </application>
 
 </manifest>

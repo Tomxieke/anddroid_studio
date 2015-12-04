@@ -13,7 +13,7 @@ import com.example.call.R;
 import fragment_demo.fragment.FragmentTwo;
 import fragment_demo.fragment.MyFragment;
 
-public class FragmentLifeActivity extends Activity implements View.OnClickListener{
+public class FragmentLifeActivity extends Activity implements View.OnClickListener,FragmentTwo.OnCallBackInter {
     private Button mAddBtn,mRemoveBtn,mReplaceBtn;
     private FragmentManager manager;
     private Fragment fragment;
@@ -30,7 +30,7 @@ public class FragmentLifeActivity extends Activity implements View.OnClickListen
         mReplaceBtn.setOnClickListener(this);
         fragment = MyFragment.newIntance();
         manager = getFragmentManager();
-        manager.beginTransaction().add(R.id.fragment_life_framelayout,fragment).commit();
+    //    manager.beginTransaction().add(R.id.fragment_life_framelayout,fragment).commit();
     }
 
     @Override
@@ -46,5 +46,10 @@ public class FragmentLifeActivity extends Activity implements View.OnClickListen
                 manager.beginTransaction().replace(R.id.fragment_life_framelayout, FragmentTwo.newInstance()).commit();
                 break;
         }
+    }
+
+    @Override
+    public void OngetMsg(String msg) {
+
     }
 }

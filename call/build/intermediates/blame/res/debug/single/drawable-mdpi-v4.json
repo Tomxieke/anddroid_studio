@@ -4,12 +4,12 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
     },
     {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_search_autocomplete.png",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-mdpi\\ic_search_autocomplete.png"
-    },
-    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_search_autocomplete.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-mdpi\\ic_search_autocomplete.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\img_smile.jpg",
@@ -38,10 +38,6 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\near_card.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-mdpi\\near_card.png"
-    },
-    {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\near_ticket.png",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-mdpi\\near_ticket.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\seekbar_passd_icon.png",

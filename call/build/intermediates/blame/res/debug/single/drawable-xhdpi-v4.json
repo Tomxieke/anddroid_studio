@@ -60,10 +60,6 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\seng_btn.png"
     },
     {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\info_map.png",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\info_map.png"
-    },
-    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mana.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\mana.png"
     },
@@ -104,10 +100,6 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\refreshing_image_01.png"
     },
     {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_back.png",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\btn_back.png"
-    },
-    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_dark.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
     },
@@ -144,12 +136,12 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\weixin_surebtn_n.png"
     },
     {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_light.png",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
-    },
-    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weixin_login_facebook2.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\weixin_login_facebook2.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\landscape_player_btn_next_press.png",

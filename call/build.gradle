@@ -14,7 +14,6 @@ apply plugin: 'android'
 dependencies {
     compile fileTree(include: '*.jar', dir: 'libs')
     compile files('libs/android-support-v4.jar')
-
 }
 
 android {

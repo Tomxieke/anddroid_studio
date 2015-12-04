@@ -1,6 +1,7 @@
 package fragment_demo.fragment;
 
 
+import android.app.Activity;
 import android.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
@@ -23,6 +24,17 @@ public class FragmentTwo extends Fragment implements AdapterView.OnItemClickList
 
     private ListView mListView;
     private String[] data = new String[]{"新闻", "电影", "旅游"};
+    private OnCallBackInter mOnCallBackInter;
+    /*注册与Activity交互的接口*/
+    public interface OnCallBackInter{
+        public void OngetMsg(String msg);
+    }
+
+    @Override
+    public void onAttach(Activity activity) {
+        super.onAttach(activity);
+        mOnCallBackInter = (OnCallBackInter)activity;   //得到了实现接口的实例了
+    }
 
     /*返回Fragment实例*/
     public static FragmentTwo newInstance(){
@@ -47,6 +59,7 @@ public class FragmentTwo extends Fragment implements AdapterView.OnItemClickList
     public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
         String str = (String) adapterView.getAdapter().getItem(i);
         Toast.makeText(getActivity(), str, Toast.LENGTH_SHORT).show();
+        mOnCallBackInter.OngetMsg(str);
     }
 
 

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:2:1-312:12
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:2:1-319:12
 	package
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:3:5-31
 	android:versionName
@@ -66,7 +66,7 @@ ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:27:5-88
 	android:name
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:27:30-85
 application
-ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:29:5-310:19
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:29:5-317:19
 	android:label
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:33:9-41
 	android:allowBackup
@@ -596,6 +596,34 @@ ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:308:9-90
 	android:name
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:308:19-87
 activity#fragment_demo.sendMsg.FragmentMsgActivity
-ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:309:9-87
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:309:9-78
 	android:name
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:309:19-75
+activity#fragment_demo.fragment.FragmentMainActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:310:9-80
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:310:19-77
+activity#fragment_demo.fragment.WorkFragmentActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:311:9-80
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:311:19-77
+activity#fragment_demo.fragment.FragmentStackActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:312:9-81
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:312:19-78
+activity#fragment_demo.subfragment.SubFragmentActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:313:9-82
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:313:19-79
+activity#fragment_demo.tabfragment.TabFragmentActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:314:9-82
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:314:19-79
+activity#fragment_demo.tabfragment.FragmentTabHostActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:315:9-86
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:315:19-83
+activity#fragment_demo.tabfragment.FragmentStateActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:316:9-93
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:316:19-81
