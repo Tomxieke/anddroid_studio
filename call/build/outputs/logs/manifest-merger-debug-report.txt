@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:2:1-319:12
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:2:1-321:12
 	package
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:3:5-31
 	android:versionName
@@ -66,7 +66,7 @@ ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:27:5-88
 	android:name
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:27:30-85
 application
-ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:29:5-317:19
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:29:5-319:19
 	android:label
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:33:9-41
 	android:allowBackup
@@ -624,6 +624,14 @@ ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:315:9-86
 	android:name
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:315:19-83
 activity#fragment_demo.tabfragment.FragmentStateActivity
-ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:316:9-93
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:316:9-84
 	android:name
 		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:316:19-81
+activity#fragment_demo.viewpager_fragment.ViewPagerActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:317:9-87
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:317:19-84
+activity#fragment_demo.viewpager_fragment.ViewPagerFragmentActivity
+ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:318:9-104
+	android:name
+		ADDED from D:\UserData\scxh\Desktop\call\call\AndroidManifest.xml:318:19-92

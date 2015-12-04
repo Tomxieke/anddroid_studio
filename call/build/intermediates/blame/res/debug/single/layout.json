@@ -100,6 +100,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\learn_savestate_activity.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager_fragment.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_view_pager_fragment.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_simple_item_relativelayout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\adapter_simple_item_relativelayout.xml"
     },
@@ -168,6 +172,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_life.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager_fragment_two.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_view_pager_fragment_two.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\study_checkbox.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\study_checkbox.xml"
     },
@@ -194,6 +202,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_linearlayout_my.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_linearlayout_my.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager_fragment_three.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_view_pager_fragment_three.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_msg_layout.xml",
@@ -226,6 +238,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\miaget_textview.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\miaget_textview.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager_fragment_one.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\fragment_view_pager_fragment_one.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\sql_liseview_layout.xml",
@@ -478,6 +494,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\menu_content_menu_layout.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\menu_content_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager_fragment2.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\layout\\activity_view_pager_fragment2.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",

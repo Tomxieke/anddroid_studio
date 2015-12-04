@@ -50,6 +50,8 @@ import fragment_demo.tabfragment.FragmentStateActivity;
 import fragment_demo.tabfragment.FragmentTabHostActivity;
 import fragment_demo.tabfragment.TabFragmentActivity;
 import fragment_demo.test_fragment_life.FragmentLifeActivity;
+import fragment_demo.viewpager_fragment.ViewPagerActivity;
+import fragment_demo.viewpager_fragment.ViewPagerFragmentActivity;
 import intent.TestIntentOne;
 import music.mediaplayer.Mp3PlayerActivity;
 import music.mediaplayer.MusicActivity;
@@ -75,7 +77,6 @@ import ui_adapter_wiaget.GridViewActivty;
 import ui_adapter_wiaget.HistoryAutoCompleteTextViewActiviity;
 import ui_adapter_wiaget.SetTitleActivity;
 import ui_adapter_wiaget.StudySpinnerActivity;
-import ui_adapter_wiaget.ViewPagerActivity;
 import webview.HttpServeletActivity;
 import webview.WebViewActivity;
 
@@ -131,7 +132,7 @@ public class MainActivity extends ListActivity {
 		addItem(data, "GridView学习", GridViewActivty.class);
 		addItem(data, "文本中加载图片", ImageInTextActivity.class);
 		addItem(data, "自定义标题title", SetTitleActivity.class);
-		addItem(data, "引导界面ViewPager学习", ViewPagerActivity.class);
+		addItem(data, "引导界面ViewPager学习", ui_adapter_wiaget.ViewPagerActivity.class);
 		addItem(data, "无限循环滑动ViewPager", ForeverViewPagerActivity.class);
 		addItem(data, "进度条ProgressBar学习", ProgressBarActivity.class);
 		addItem(data, "Dialog对话框学习", TestDialogActivity.class);
@@ -171,6 +172,8 @@ public class MainActivity extends ListActivity {
 		addItem(data, "TabFragmentActivity", TabFragmentActivity.class);
 		addItem(data, "FragmentStateActivity", FragmentStateActivity.class);
 		addItem(data, "FragmentTabHostActivity", FragmentTabHostActivity.class);
+		addItem(data, "ViewPagerActivity", ViewPagerActivity.class);
+		addItem(data, "ViewPagerFragmentActivity", ViewPagerFragmentActivity.class);
 		return data;
 	}
 
