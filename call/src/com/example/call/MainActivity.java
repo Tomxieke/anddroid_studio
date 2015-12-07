@@ -44,6 +44,7 @@ import fragment_demo.fragment.FragmentDomeActivity;
 import fragment_demo.fragment.FragmentMainActivity;
 import fragment_demo.fragment.FragmentStackActivity;
 import fragment_demo.fragment.WorkFragmentActivity;
+import fragment_demo.img_fragment.FragmnetImgMainActivity;
 import fragment_demo.sendMsg.FragmentMsgActivity;
 import fragment_demo.subfragment.SubFragmentActivity;
 import fragment_demo.tabfragment.FragmentStateActivity;
@@ -174,6 +175,7 @@ public class MainActivity extends ListActivity {
 		addItem(data, "FragmentTabHostActivity", FragmentTabHostActivity.class);
 		addItem(data, "ViewPagerActivity", ViewPagerActivity.class);
 		addItem(data, "ViewPagerFragmentActivity", ViewPagerFragmentActivity.class);
+		addItem(data, "FragmnetImgMainActivity", FragmnetImgMainActivity.class);
 		return data;
 	}
 

@@ -316,6 +316,7 @@
         <activity android:name="fragment_demo.tabfragment.FragmentStateActivity" />
         <activity android:name="fragment_demo.viewpager_fragment.ViewPagerActivity" />
         <activity android:name="fragment_demo.viewpager_fragment.ViewPagerFragmentActivity" />
+        <activity android:name="fragment_demo.img_fragment.FragmnetImgMainActivity" />
     </application>
 
 </manifest>

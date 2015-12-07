@@ -1,13 +1,5 @@
 package asynctask;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.concurrent.Executor;
-
-import util.AsyncMemoryFileCacheImage;
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -23,9 +15,18 @@ import android.widget.ImageView;
 
 import com.example.call.R;
 
+import java.io.IOException;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.concurrent.Executor;
+
+import util.AsyncMemoryFileCacheImage;
+
 public class GridViewAsynctaskActivity extends Activity {
 	private GridView mGridView;
-	private String[] urlPath = new String[]{  //数据源
+	public static String[] urlPath = new String[]{  //数据源
 			"http://img3.imgtn.bdimg.com/it/u=3921468129,634158244&fm=23&gp=0.jpg",
 			"http://img4.imgtn.bdimg.com/it/u=1519979105,1747027397&fm=23&gp=0.jpg",
 			"http://img3.imgtn.bdimg.com/it/u=3084720760,288869075&fm=23&gp=0.jpg",

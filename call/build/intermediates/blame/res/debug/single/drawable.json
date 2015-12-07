@@ -20,8 +20,16 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\shape_button_namol.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_tabbtn_four_selector.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\fragment_tabbtn_four_selector.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\womanradiobutton_selecter.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\womanradiobutton_selecter.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_radiobtn_one.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\fragment_radiobtn_one.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selecter.xml",
@@ -40,12 +48,12 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\savestate_sendbtn_selecter.xml"
     },
     {
-        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\mp3_befor_btn_selector.xml",
-        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\mp3_befor_btn_selector.xml"
-    },
-    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_itemtwo_radiobtn_selecter.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\tab_itemtwo_radiobtn_selecter.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\mp3_befor_btn_selector.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\mp3_befor_btn_selector.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin_delete_selecter.xml",
@@ -84,6 +92,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\shape_button_selector.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_radiobtn_one_text.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\fragment_radiobtn_one_text.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_txt_selecter.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\tab_txt_selecter.xml"
     },
@@ -92,12 +104,20 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\shape_solid.xml"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_tabbtn_two_selector.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\fragment_tabbtn_two_selector.xml"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin_login_surebtn_selecter.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\weixin_login_surebtn_selecter.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_padding.xml",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\shape_padding.xml"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\fragment_tavbtn_three_selector.xml",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable\\fragment_tavbtn_three_selector.xml"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable\\my_seekbar_layer_list.xml",

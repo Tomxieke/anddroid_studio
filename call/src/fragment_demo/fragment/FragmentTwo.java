@@ -31,6 +31,7 @@ public class FragmentTwo extends Fragment implements AdapterView.OnItemClickList
     }
 
     @Override
+    /*交互接口*/
     public void onAttach(Activity activity) {
         super.onAttach(activity);
         mOnCallBackInter = (OnCallBackInter)activity;   //得到了实现接口的实例了
@@ -59,17 +60,13 @@ public class FragmentTwo extends Fragment implements AdapterView.OnItemClickList
     public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
         String str = (String) adapterView.getAdapter().getItem(i);
         Toast.makeText(getActivity(), str, Toast.LENGTH_SHORT).show();
-        mOnCallBackInter.OngetMsg(str);
+        mOnCallBackInter.OngetMsg(str);   //将参数回传给Activity
     }
 
 
     public class FragmentListAdapter extends BaseAdapter {
         private String[] dataStr = new String[]{};
         private LayoutInflater inflater;
-
-
-
-
         public FragmentListAdapter(Context context) {
             this.inflater = LayoutInflater.from(context);
         }

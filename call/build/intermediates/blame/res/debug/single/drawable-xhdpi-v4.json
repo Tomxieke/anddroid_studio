@@ -16,6 +16,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\nocheckbox.png"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_deal_on.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_deal_on.png"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\refreshing_image_02.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\refreshing_image_02.png"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\womanb.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\womanb.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_poi_on.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_poi_on.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_buetyful.jpg",
@@ -44,12 +52,20 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\progress_off.png"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\takeout_img_order_status_digest_confirmed.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\takeout_img_order_status_digest_confirmed.png"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\meituan_image6.jpg",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\meituan_image6.jpg"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_person.jpg",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\img_person.jpg"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_apollo_off.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_apollo_off.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\reader_chm_prev_btn_press.png",
@@ -62,6 +78,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mana.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\mana.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_user_off.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_user_off.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\meituan_image8.jpg",
@@ -126,6 +146,10 @@
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progress_big_red.9.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\progress_big_red.9.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_user_on.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_user_on.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weixin_login.png",
@@ -208,6 +232,10 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\weixin_surebtn_p.png"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_more_off.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_more_off.png"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\imageview_icon.jpg",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\imageview_icon.jpg"
     },
@@ -220,8 +248,16 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\login_login_a.png"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_apollo_on.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_apollo_on.png"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\progressbar_one_icon.9.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\progressbar_one_icon.9.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_poi_off.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_poi_off.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\meituan_image4.jpg",
@@ -236,11 +272,23 @@
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\meituan_image7.jpg"
     },
     {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\takeout_img_order_status_digest_confirmed_noresponse.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\takeout_img_order_status_digest_confirmed_noresponse.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_more_on.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_more_on.png"
+    },
+    {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\weixin_login_facebook.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\weixin_login_facebook.png"
     },
     {
         "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\reader_chm_prev_btn_normal.png",
         "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\reader_chm_prev_btn_normal.png"
+    },
+    {
+        "merged": "D:\\UserData\\scxh\\Desktop\\call\\call\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_deal_off.png",
+        "source": "D:\\UserData\\scxh\\Desktop\\call\\call\\res\\drawable-xhdpi\\ic_menu_deal_off.png"
     }
 ]
