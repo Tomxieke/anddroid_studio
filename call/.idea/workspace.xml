@@ -22,164 +22,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="217773bf-be5b-4506-ab28-242d944829af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_menu_poi_off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_menu_poi_on.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/picasso-2.5.2.jar" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\.idea\libraries\android_async_http_1_4_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\.idea\libraries\android_support_v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\.idea\libraries\fastjson_1_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\.idea\libraries\gson_2_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\.idea\libraries\httpclient_4_4_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\build\intermediates\res\merged\debug\drawable-mdpi-v4\ic_menu_poi_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\build\intermediates\res\merged\debug\drawable-mdpi-v4\ic_menu_poi_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\build\intermediates\res\merged\debug\drawable-mdpi-v4\ic_menu_user_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\build\intermediates\res\merged\debug\drawable-mdpi-v4\ic_menu_user_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\build\intermediates\res\merged\debug\drawable-mdpi-v4\takeout_img_order_status_digest_confirmed.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\build\intermediates\res\merged\debug\drawable-mdpi-v4\takeout_img_order_status_digest_confirmed_noresponse.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\res\drawable-mdpi\ic_menu_poi_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\res\drawable-mdpi\ic_menu_poi_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\res\drawable-mdpi\ic_menu_user_off.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\res\drawable-mdpi\ic_menu_user_on.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\res\drawable-mdpi\takeout_img_order_status_digest_confirmed.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\UserData\scxh\Desktop\call\call\res\drawable-mdpi\takeout_img_order_status_digest_confirmed_noresponse.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ActionBarActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ActionBarActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ActionBarSearchActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ActionBarSearchActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/studytest/AdapterHomeworkActivity$HomeworkAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/studytest/AdapterHomeworkActivity$HomeworkAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/studytest/AdapterHomeworkActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/studytest/AdapterHomeworkActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/AdapterSimpleAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/AdapterSimpleAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/application/ApplicationActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/application/ApplicationActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/util/AsyncMemoryFileCacheImage.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/util/AsyncMemoryFileCacheImage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/AsynctaskActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/AsynctaskActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ButtonActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ButtonActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/ButtonOnClickEvent.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/ButtonOnClickEvent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/CheckBoxStudy.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/CheckBoxStudy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ContentMenuActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ContentMenuActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ContentMenuActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/ContentMenuActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_dialog/ExitDialog.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_dialog/ExitDialog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/test/ExpandableListActivity$MyExpandableListAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/test/ExpandableListActivity$MyExpandableListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/test/ExpandableListActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/test/ExpandableListActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/data/files/FilesTest.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/data/files/FilesTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ForeverViewPagerActivity$2.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ForeverViewPagerActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ForeverViewPagerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ForeverViewPagerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/FragmentDomeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/FragmentDomeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/test_fragment_life/FragmentLifeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/test_fragment_life/FragmentLifeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/FragmentTwo$FragmentListAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/FragmentTwo$FragmentListAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/FragmentTwo.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/FragmentTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/GridViewActivty$GridViewAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/GridViewActivty$GridViewAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/GridViewActivty.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/GridViewActivty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity$AsynctaskGridViewAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity$AsynctaskGridViewAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity$MoreAsynctaskGridViewAdapter$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity$MoreAsynctaskGridViewAdapter$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity$MoreAsynctaskGridViewAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity$MoreAsynctaskGridViewAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/asynctask/GridViewAsynctaskActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_handler/HandlerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_handler/HandlerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/HistoryAutoCompleteTextViewActiviity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/HistoryAutoCompleteTextViewActiviity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/webview/HttpServeletActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/webview/HttpServeletActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/dataparmte/xml/HttpXmlParmaterActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/dataparmte/xml/HttpXmlParmaterActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/studytest/ImageInTextActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/studytest/ImageInTextActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ImageViewActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ImageViewActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter_view_refresh/LastRefreshActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter_view_refresh/LastRefreshActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LaunchMadeSingTop.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LaunchMadeSingTop.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LaunchMadeSingleInstance.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LaunchMadeSingleInstance.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LearnActivityLaunchMade.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LearnActivityLaunchMade.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LearnSaveStateActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LearnSaveStateActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LearnTextChangListener.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/LearnTextChangListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/test_fragment_life/LifeFragment.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/test_fragment_life/LifeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/ListArrayAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/ListArrayAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/app/login/ui/LoginLogin.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/app/login/ui/LoginLogin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/scan_files/LookFilesActivity$ListAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/scan_files/LookFilesActivity$ListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/scan_files/LookFilesActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/scan_files/LookFilesActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/music/mediaplayer/Mp3PlayerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/music/mediaplayer/Mp3PlayerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/sendMsg/MsgFragment.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/sendMsg/MsgFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/music/mediaplayer/MusicActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/music/mediaplayer/MusicActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/MyActionProvider.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/MyActionProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyAdapterActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyAdapterActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyBaseAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyBaseAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_dialog/MyExitDialog.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_dialog/MyExitDialog.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/MyFragment.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/fragment/MyFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyMessageAdapterActivity$MyMessageAdapter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyMessageAdapterActivity$MyMessageAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyMessageAdapterActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter/MyMessageAdapterActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/tabhost/MyPopupWindow.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/tabhost/MyPopupWindow.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/notification/NotificationActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/notification/NotificationActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/senddatebetweenactivity/OneActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/senddatebetweenactivity/OneActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/OptionMenuActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_menu/OptionMenuActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/tabhost/PopWindowsActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/tabhost/PopWindowsActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/progess_bar/ProgressBarActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/progess_bar/ProgressBarActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$drawable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$layout.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$menu.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$raw.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/RadioButtonActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/RadioButtonActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/RadioButtonActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/RadioButtonActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/broadcast_receiver/ReceiverActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/broadcast_receiver/ReceiverActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/layout/RelativelayoutActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/layout/RelativelayoutActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/sendMsg/SendMsgToActivityFragment.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/sendMsg/SendMsgToActivityFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/service_by_binder/ServiceActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/service_by_binder/ServiceActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/SetTitleActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/SetTitleActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/tools/ShapeActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/tools/ShapeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ShowFromButtonActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ShowFromButtonActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/event/SingleTaskActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/event/SingleTaskActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/data/contentprovider/sms/SmsTestActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/data/contentprovider/sms/SmsTestActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/SpinnerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/SpinnerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/StartActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/example/call/StartActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/activity/StudyActivityLifeOne.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/activity/StudyActivityLifeOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/activity/StudyActivityLifeTwo.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/activity/StudyActivityLifeTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/StudySpinnerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/StudySpinnerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/tabhost/TabHostActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/tabhost/TabHostActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/layout/TableLayoutActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/layout/TableLayoutActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/study_dialog/TestDialogActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/study_dialog/TestDialogActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/Test_fragment/TestFragmentActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/fragment_demo/Test_fragment/TestFragmentActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/intent/TestIntentOne.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/intent/TestIntentOne.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/intent/TestIntentTwo.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/intent/TestIntentTwo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/service/TestServiceActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/service/TestServiceActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/TextViewActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/TextViewActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/TextViewApiStudyActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/TextViewApiStudyActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ToggleButtonSwitchActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/wiaget/ToggleButtonSwitchActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/senddatebetweenactivity/TwoActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/senddatebetweenactivity/TwoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ViewPagerActivity$1.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ViewPagerActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ViewPagerActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/ui_adapter_wiaget/ViewPagerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/webview/WebViewActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/webview/WebViewActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/app/login/ui/WeiXinLogin.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/app/login/ui/WeiXinLogin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/data/files/WritePrictureToStoreActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/data/files/WritePrictureToStoreActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/warmtel/android/xlistview/XListView.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/warmtel/android/xlistview/XListView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/warmtel/android/xlistview/XListViewFooter.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/warmtel/android/xlistview/XListViewFooter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/warmtel/android/xlistview/XListViewHeader.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/warmtel/android/xlistview/XListViewHeader.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter_view_refresh/XlistViewRefreshActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/adapter_view_refresh/XlistViewRefreshActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_abd29211aa10ec5315e2ff6c82d2da25f66d2589.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_abd29211aa10ec5315e2ff6c82d2da25f66d2589.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_868dce7f4e3ad7eb8a237ddc968f8cd3bc146c98.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/android-support-v4_868dce7f4e3ad7eb8a237ddc968f8cd3bc146c98.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/call-debug-unaligned.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/call-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/call-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/call-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_436bc9f00a52adb1da9752e2ac67a5a386077913.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/debug_436bc9f00a52adb1da9752e2ac67a5a386077913.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/fastjson-1.2.5_a450d3ca740985ae43bc72b5015bc83e0720889d.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/fastjson-1.2.5_a450d3ca740985ae43bc72b5015bc83e0720889d.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.3.1_73410a34e630107cbb0e590fe21c613f0b530ddb.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/gson-2.3.1_73410a34e630107cbb0e590fe21c613f0b530ddb.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpclient-4.4.1.1_d36bd9e8ac185455d01d0a47461aee68530ef69a.jar" afterPath="$PROJECT_DIR$/build/intermediates/pre-dexed/debug/httpclient-4.4.1.1_d36bd9e8ac185455d01d0a47461aee68530ef69a.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentTwo.java" afterPath="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentTwo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/asynctask/GridViewAsynctaskActivity.java" afterPath="$PROJECT_DIR$/src/asynctask/GridViewAsynctaskActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/call/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/example/call/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/example/call/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/example/call/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/call.iml" afterPath="$PROJECT_DIR$/call.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="call.iws" />
@@ -210,71 +63,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NewsFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/NewsFragment.java">
+      <file leaf-file-name="SubFragmentActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fragment_demo/subfragment/SubFragmentActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5782609">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDialogFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fragment_demo/subfragment/MyDialogFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TravealFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/TravealFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoviesFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/MoviesFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FragmentMainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/FragmentMainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9130435">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_fragment_main_layout.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_fragment_main_layout.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.0">
-              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FragmentTwo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/FragmentTwo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <caret line="35" column="32" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="32" />
               <folding>
-                <element signature="e#2447#2448#0" expanded="true" />
-                <element signature="e#2492#2493#0" expanded="true" />
-                <element signature="e#2550#2551#0" expanded="true" />
-                <element signature="e#2591#2592#0" expanded="true" />
-                <element signature="e#2649#2650#0" expanded="true" />
-                <element signature="e#2681#2682#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyListFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fragment_demo/subfragment/MyListFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+              <folding>
+                <element signature="e#2308#2309#0" expanded="true" />
+                <element signature="e#2353#2354#0" expanded="true" />
+                <element signature="e#2510#2511#0" expanded="true" />
+                <element signature="e#2542#2543#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1271,9 +1091,7 @@
         <option value="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentDomeActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/fragment_activtiy_layout.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_sub_fragment.xml" />
-        <option value="$PROJECT_DIR$/src/fragment_demo/subfragment/MyDialogFragment.java" />
         <option value="$PROJECT_DIR$/src/fragment_demo/subfragment/SubFragmentActivity.java" />
-        <option value="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentStackActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/login_dialog_fragment_layout.xml" />
         <option value="$PROJECT_DIR$/src/fragment_demo/subfragment/LoginDialogFragment.java" />
         <option value="$PROJECT_DIR$/src/fragment_demo/subfragment/MyListFragment.java" />
@@ -1283,7 +1101,6 @@
         <option value="$PROJECT_DIR$/src/fragment_demo/tabfragment/StateFragment.java" />
         <option value="$PROJECT_DIR$/res/layout/httplistview_item_layout.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_fragment_state.xml" />
-        <option value="$PROJECT_DIR$/src/fragment_demo/tabfragment/FragmentStateActivity.java" />
         <option value="$PROJECT_DIR$/src/fragment_demo/tabfragment/FragmentTabHostActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_view_pager_fragment.xml" />
         <option value="$PROJECT_DIR$/src/fragment_demo/viewpager_fragment/ViewPagerActivity.java" />
@@ -1316,6 +1133,9 @@
         <option value="$PROJECT_DIR$/src/fragment_demo/tabfragment/TabFragmentActivity.java" />
         <option value="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentTwo.java" />
         <option value="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentMainActivity.java" />
+        <option value="$PROJECT_DIR$/src/fragment_demo/tabfragment/FragmentStateActivity.java" />
+        <option value="$PROJECT_DIR$/src/fragment_demo/fragment/FragmentStackActivity.java" />
+        <option value="$PROJECT_DIR$/src/fragment_demo/subfragment/MyDialogFragment.java" />
       </list>
     </option>
   </component>
@@ -1333,8 +1153,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-11" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -1362,26 +1181,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="call" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="call" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="call" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1454,36 +1253,34 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tabfragment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="call" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="call" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragment_demo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="fragment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="call" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="call" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="call" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1714,7 +1511,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449221150288</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2015-12-4">
+      <created>1449488856981</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1449488856981</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1727,7 +1530,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-11" y="0" width="1616" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1739,9 +1542,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52294856" sideWeight="0.49100256" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18766066" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1752,13 +1553,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19987147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969153" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19601542" sideWeight="0.50486785" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18766066" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.4974293" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962447" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -1894,120 +1697,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment_view_pager_fragment_one.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38181818">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment_view_pager_fragment_two.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3181818">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment_view_pager_fragment_three.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3181818">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fragment_demo/viewpager_fragment/ViewPagerFragmentOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54347825">
-          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fragment_demo/viewpager_fragment/ViewPagerFragmentThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27391306">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fragment_demo/viewpager_fragment/ViewPagerFragmentTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21304348">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/tab_itemthree_radiobtn_selecter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/layout_selecter.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19090909">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/android/adt-bundle-windows-x86-20140702/android-sdk-windows/platforms/android-15/android.jar!/android/widget/FrameLayout.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2318612">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/adapter_homework_buttondiscount_slecter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1521739">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5876133">
-          <caret line="46" column="62" selection-start-line="46" selection-start-column="62" selection-end-line="46" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment_img.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6363636">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/adapter_homework_layout_listview.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/studytest/AdapterHomeworkActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39565217">
@@ -2138,7 +1827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0333333">
           <caret line="145" column="22" selection-start-line="145" selection-start-column="22" selection-end-line="145" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2166,7 +1854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54347825">
           <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2208,7 +1895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2942584">
           <caret line="158" column="55" selection-start-line="158" selection-start-column="55" selection-end-line="158" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2220,16 +1906,6 @@
         <state vertical-scroll-proportion="0.55454546">
           <caret line="19" column="61" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="61" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fragment_demo/tabfragment/TabFragmentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2253,7 +1929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12173913">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2261,7 +1936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2273,28 +1947,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment_fragment_two_layout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/FragmentTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.21594203">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
-            <element signature="e#2447#2448#0" expanded="true" />
-            <element signature="e#2492#2493#0" expanded="true" />
-            <element signature="e#2550#2551#0" expanded="true" />
-            <element signature="e#2591#2592#0" expanded="true" />
-            <element signature="e#2649#2650#0" expanded="true" />
-            <element signature="e#2681#2682#0" expanded="true" />
+            <element signature="e#2447#2448#0" expanded="false" />
+            <element signature="e#2492#2493#0" expanded="false" />
+            <element signature="e#2550#2551#0" expanded="false" />
+            <element signature="e#2591#2592#0" expanded="false" />
+            <element signature="e#2649#2650#0" expanded="false" />
+            <element signature="e#2681#2682#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2314,7 +1977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2323,7 +1985,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0">
+        <state vertical-scroll-proportion="0.3181818">
           <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
           <folding />
         </state>
@@ -2333,6 +1995,142 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9130435">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_fragment_state.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8909091">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_state.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/tabfragment/TabOneV4Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12173913">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/tabfragment/TabFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08695652">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/tabfragment/StateFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030434782">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/tabfragment/FragmentStateActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42173913">
+          <caret line="32" column="93" selection-start-line="32" selection-start-column="93" selection-end-line="32" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/tabfragment/FragmentTabHostActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12173913">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_fragment_stack.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/FragmentStackActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028985508">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding>
+            <element signature="e#770#902#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#1007#1154#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/WorkFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4869565">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment_fragment_two_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41363636">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/fragment/WorkListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0652174">
+          <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/subfragment/MyListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+          <folding>
+            <element signature="e#2308#2309#0" expanded="true" />
+            <element signature="e#2353#2354#0" expanded="true" />
+            <element signature="e#2510#2511#0" expanded="true" />
+            <element signature="e#2542#2543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/subfragment/MyDialogFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fragment_demo/subfragment/SubFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5782609">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
